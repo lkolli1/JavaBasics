@@ -1,0 +1,3 @@
+module patientregistration {
+	exports pr;
+}
